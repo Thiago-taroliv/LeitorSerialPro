@@ -1,0 +1,12 @@
+{
+  "theme": "dark",
+  "last_port": "COM15",
+  "auto_save": false,
+  "log_file": "C:/Users/supor/OneDrive/Área de Trabalho/log_ra24_modem.txt",
+  "font_family": "Microsoft JhengHei UI",
+  "font_size": 10,
+  "font_color": "",
+  "log_bg": "",
+  "last_command": "*RN;2;APN;virtueyes.com.br;virtu;virtu;",
+  "last_bin": "C:/Users/supor/OneDrive - Ranor Rastreamento/Area Tecnica/Configurador - Thiago/CONFIGURAÇÃO/Equipamentos/RA24/ATT_RASTREADOR/ranor_ra24_v2.63.2_manual.bin"
+}

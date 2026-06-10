@@ -1,0 +1,14 @@
+{
+  "theme": "dark",
+  "last_port": "COM15",
+  "auto_save": false,
+  "log_file": "C:/Users/supor/OneDrive/Área de Trabalho/LOGTECLADO.txt",
+  "font_family": "Consolas",
+  "font_size": 11,
+  "font_color": "",
+  "log_bg": "",
+  "last_command": "*RN;2;APN;virtueyes.com.br;virtu;virtu",
+  "last_bin": "C:/Users/supor/OneDrive - Ranor Rastreamento/Area Tecnica/Configurador - Thiago/CONFIGURAÇÃO/Equipamentos/RA24/ATT_SENSOR/ranor_colisao_v2_manual.bin",
+  "ai_api_key": "AIzaSyBNHoAKqFFp8GzFWqieibehMeROy7Lk6Gk",
+  "last_equip": "RA22"
+}

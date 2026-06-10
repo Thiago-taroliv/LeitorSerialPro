@@ -1,0 +1,4 @@
+pyserial
+pyinstaller
+google-generativeai
+pillow
